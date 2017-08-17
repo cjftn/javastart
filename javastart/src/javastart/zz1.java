@@ -6,10 +6,11 @@ public class zz1 {
 		long b;
 		byte c;
 		a=(int)199999*99999999;
-		b=(long)199999*99999999l;
+		b=(long)199999*99999999L;
 		c=127;
 		System.out.println(a);
 		System.out.println(b);
+		System.out.println(c);
 	}
 	
 }
